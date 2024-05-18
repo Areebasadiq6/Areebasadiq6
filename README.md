@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Areebasadiq
-- 👀 I’m interested in Codin
+- 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m passsionate learning Generative AI
 
