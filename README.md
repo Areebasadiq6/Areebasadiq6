@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m student of Generative AI Engineering
--    I'm passionate learning about Generative AI
+  🌟I'm passionate learning about Generative AI
   
 
 <!---
