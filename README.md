@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Areebasadiq
-- 👀 I’m interested in Coding and programming
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m student of Generative AI Engineering
-- 🌟I'm passionate learning about Generative AI
+
   
 
 <!---
